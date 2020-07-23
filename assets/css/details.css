@@ -1,0 +1,33 @@
+html {
+    scroll-behavior: smooth;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 600;
+}
+body {
+    align-content: center;
+    text-align: center;
+}
+.navbar-brand {
+    color: #fff;
+    font-weight: 900;
+}
+span {
+    color: #ff7315;
+}
+.container p {
+    font-size: 14px;
+}
+.nav .active {
+    background-color: #000;
+}
+del {
+    color: #000;
+    font-size: 14px;
+}
